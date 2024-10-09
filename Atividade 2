@@ -1,0 +1,19 @@
+A melhor solução para o projeto descrito no estudo de caso de Winburg seria utilizar um **modelo de desenvolvimento iterativo e incremental**, como o **modelo espiral** ou um método ágil como o **Scrum**. Vou explicar o porquê.
+
+### 1. **Flexibilidade e adaptações contínuas**:
+Durante o desenvolvimento da máquina de leitura de cédulas, surgiram problemas inesperados, como o tempo de resposta alto e a necessidade de melhorar a precisão do software. Se usássemos um modelo como o **cascata**, isso seria difícil de corrigir, pois ele é muito rígido e só permite revisões após o término de cada fase. Com um modelo iterativo, cada ciclo de desenvolvimento pode focar em um conjunto específico de problemas e requisitos, permitindo ajustes contínuos ao longo do projeto.
+
+### 2. **Gerenciamento de riscos**:
+Logo nos testes iniciais, o projeto encontrou problemas sérios de desempenho, com o software demorando muito mais do que o esperado para validar as cédulas. Em um **modelo espiral**, esses riscos seriam tratados nas primeiras iterações. Os requisitos mais complicados, como tempo de resposta e precisão, seriam priorizados e testados logo no início, ajudando a equipe a evitar atrasos e retrabalhos no futuro.
+
+### 3. **Feedback constante do cliente**:
+Outro ponto importante é que, com um modelo iterativo, o cliente e os usuários poderiam testar partes do software ao longo do processo, não apenas no final. Isso ajudaria a garantir que o sistema estivesse atendendo às expectativas e permitindo ajustes rápidos. Por exemplo, se o tempo de validação das cédulas estivesse muito alto, os usuários poderiam dar esse feedback logo nas primeiras iterações, evitando problemas maiores depois.
+
+### 4. **Capacidade de lidar com mudanças**:
+No meio do projeto, o prefeito de Winburg sugeriu que o software fosse modificado para ser vendido a empresas de máquinas de venda automática. Um modelo iterativo lida melhor com esse tipo de mudança, já que permite incluir novos requisitos sem comprometer o trabalho feito anteriormente. Esse tipo de flexibilidade é essencial quando surgem novas oportunidades de mercado ou mudanças de escopo.
+
+### 5. **Melhoria contínua**:
+Com cada iteração, seria possível melhorar a performance do software de forma controlada. Por exemplo, o time poderia testar diferentes algoritmos de reconhecimento de imagem em cada ciclo, ajustando o sistema até encontrar o equilíbrio perfeito entre precisão e velocidade. Isso também daria a chance de testar novas tecnologias, como o algoritmo mais rápido que foi descoberto durante o projeto.
+
+### Conclusão:
+Portanto, acredito que um **modelo iterativo e incremental** seria a melhor escolha para o desenvolvimento desse software. Ele permite uma adaptação mais rápida a problemas e mudanças, gerencia os riscos de maneira eficiente e garante que o cliente possa acompanhar e validar o projeto em etapas, ao invés de só ver o resultado no final.
