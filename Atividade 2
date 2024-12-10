@@ -6,6 +6,7 @@ Durante o desenvolvimento da máquina de leitura de cédulas, surgiram problemas
 ### 2. **Gerenciamento de riscos**:
 Logo nos testes iniciais, o projeto encontrou problemas sérios de desempenho, com o software demorando muito mais do que o esperado para validar as cédulas. Em um **modelo espiral**, esses riscos seriam tratados nas primeiras iterações. Os requisitos mais complicados, como tempo de resposta e precisão, seriam priorizados e testados logo no início, ajudando a equipe a evitar atrasos e retrabalhos no futuro.
 
+
 ### 3. **Feedback constante do cliente**:
 Outro ponto importante é que, com um modelo iterativo, o cliente e os usuários poderiam testar partes do software ao longo do processo, não apenas no final. Isso ajudaria a garantir que o sistema estivesse atendendo às expectativas e permitindo ajustes rápidos. Por exemplo, se o tempo de validação das cédulas estivesse muito alto, os usuários poderiam dar esse feedback logo nas primeiras iterações, evitando problemas maiores depois.
 
